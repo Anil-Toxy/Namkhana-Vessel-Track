@@ -1,0 +1,100 @@
+[
+  {
+    "Stock_Point_ID" : 2,
+    "Location" : "Lot 8 Jetty Ghat 1",
+    "Vessel_Type" : "Barge",
+    "Vessel_ID_No" : 1002,
+    "No_of_Vessel" : 1,
+    "Status" : "Inward",
+    "Color" : "yellow",
+    "Lat" : 21.880387,
+    "Long" : 88.1615303
+  },
+  {
+    "Stock_Point_ID" : 2,
+    "Location" : "Lot 8 Jetty Ghat 1",
+    "Vessel_Type" : "Launch",
+    "Vessel_ID_No" : 1001,
+    "No_of_Vessel" : 1,
+    "Status" : "Ready to Start",
+    "Color" : "orange",
+    "Lat" : 21.880387,
+    "Long" : 88.1615303
+  },
+  {
+    "Stock_Point_ID" : 3,
+    "Location" : "Lot 8 Jetty Ghat 2",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  },
+  {
+    "Stock_Point_ID" : 4,
+    "Location" : "Lot 8 Jetty Ghat 3",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  },
+  {
+    "Stock_Point_ID" : 5,
+    "Location" : "Lot 8 Jetty Ghat 4",
+    "Vessel_Type" : "Launch",
+    "Vessel_ID_No" : 102,
+    "No_of_Vessel" : 1,
+    "Status" : "Inward",
+    "Color" : "yellow",
+    "Lat" : 21.8907385,
+    "Long" : 88.1639607
+  },
+  {
+    "Stock_Point_ID" : 6,
+    "Location" : "Lot 8 Jetty Ghat 5",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  },
+  {
+    "Stock_Point_ID" : 7,
+    "Location" : "Lot 8 Jetty Ghat 6",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  },
+  {
+    "Stock_Point_ID" : 8,
+    "Location" : "Lot 8 Jetty Ghat 7",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  },{
+    "Stock_Point_ID" : 9,
+    "Location" : "Lot 8 Jetty Ghat 8",
+    "Vessel_Type" : "",
+    "Vessel_ID_No" : 0,
+    "No_of_Vessel" : 0,
+    "Status" : "",
+    "Color" : "",
+    "Lat" : 0,
+    "Long" : 0
+  }
+]

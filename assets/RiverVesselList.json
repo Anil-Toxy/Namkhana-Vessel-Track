@@ -1,0 +1,8 @@
+{
+  "commonApi" : "https://gangasagar.azurewebsites.net/api/Get_Common_Data?code=GUT18xruJzKPNyenV5DO6zajh/g5tpP4msObQYvvvXgLOtWqc1iI7A==",
+  "Lot8BalancePilgrim" : "https://gangasagar.azurewebsites.net/api/Get_Jetty_Pilgrim?code=tZB0LzYKS03pJ5U2FyaeExYA81lZlSc073bdvPEmbL0Rvjiow0DYHw==",
+  "Lot8BalanceVessel" : "https://gangasagar.azurewebsites.net/api/Get_Jetty_Vesel?code=mw0JaEn/tN95rnhYoKJ34zxwco6pEowxCF6l51wRk/zwkGeAFLdhlA==",
+  "Lot8OutwardDepature" : "https://gangasagar.azurewebsites.net/api/Get_River_Vessel?code=LrkSthwKbcIl1sFasxa47Bhs24FvKneNk3ueHvq7kyPJlA09pijmog==",
+  "kachuBalancePilgrim" : "https://gangasagar.azurewebsites.net/api/Get_Kachuberia_Jetty_Pilgrim?code=gOkF0V9Dx0mH/WUotRJhIrdghoDTrddR4EGI3EW/kybdIakYfHHO8w==",
+  "kachuBalanceVessel" : "https://gangasagar.azurewebsites.net/api/Get_Kachuberia_Jetty_Vessel?code=jgGF08w625/BUGZqLVXxiEnM7zdlQLrcyqpKpLArDhKCkqnZeq11TQ=="
+}

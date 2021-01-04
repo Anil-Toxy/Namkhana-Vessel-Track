@@ -1,0 +1,42 @@
+[
+  {
+    "Stock_Point_ID" : 2,
+    "Location" : "Lot 8 Jetty Ghat 1",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 3,
+    "Location" : "Lot 8 Jetty Ghat 2",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 4,
+    "Location" : "Lot 8 Jetty Ghat 3",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 5,
+    "Location" : "Lot 8 Jetty Ghat 4",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 6,
+    "Location" : "Lot 8 Jetty Ghat 5",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 7,
+    "Location" : "Lot 8 Jetty Ghat 6",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 8,
+    "Location" : "Lot 8 Jetty Ghat 7",
+    "Balance_Pilgrim" : 530
+  },
+  {
+    "Stock_Point_ID" : 9,
+    "Location" : "Lot 8 Jetty Ghat 8",
+    "Balance_Pilgrim" : 530
+  }
+]
